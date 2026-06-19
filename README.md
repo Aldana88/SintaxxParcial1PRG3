@@ -1,4 +1,4 @@
-# EcoRide Pro - Anexo Técnico de Rendimiento
+
 
 ## 1. Búsqueda de vehículos
 
